@@ -1,0 +1,17 @@
+print(1)
+print(2)
+print(3)
+
+
+i = 1 # Sartwert
+while i < 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001: # i < Endwert+1
+    print(i)
+    i = i + 1 # neuer wert von i = alter wert von i + 1 
+ 
+
+# Alle Zahlen zwischen -100 und 5560 inkl. ausdrucken
+
+i = -100 # Sartwert
+while i < 5561:
+    print(i)
+    i + 1 # neuer wert von i = alter wert von i + 1
